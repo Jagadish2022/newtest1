@@ -1,2 +1,0 @@
-# newtest1
-newtestgitrepo
